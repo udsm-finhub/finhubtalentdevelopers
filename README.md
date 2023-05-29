@@ -24,5 +24,5 @@ The expected outcomes of the program include 70 students acquiring new programmi
 
 ## Program Resources
 
-- [progran concept note](assets/pdfs/FINHUB%20Developer%20Academy%20.pdf)
+- [program concept note](assets/pdfs/FINHUB%20Developer%20Academy%20.pdf)
 - [detailed activity plan](https://docs.google.com/spreadsheets/d/1YXQM53lbHBfDf87g1IEKSJLtsy9V1i6i/edit#gid=256693332)
